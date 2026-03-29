@@ -12,21 +12,26 @@ The primary objective of this project is to design and develop an intelligent ch
 
 The chatbot aims to:
 
-Understand user queries in natural language <br>
-Identify the intent behind the questions <br>
-Match queries with the most relevant predefined questions <br>
-Provide correct and meaningful answers instantly <br>
-Reduce dependency on manual helpdesk systems <br>
+-Understand user queries in natural language <br>
+-Identify the intent behind the questions <br>
+-Match queries with the most relevant predefined questions <br>
+-Provide correct and meaningful answers instantly <br>
+-Reduce dependency on manual helpdesk systems <br>
 
 This project also aims to demonstrate the practical implementation of Natural Language Processing (NLP) techniques in solving real-world problems.
 
 # Proposed Solution
-The proposed system is a College Helpdesk Chatbot built using Python. It uses Natural Language Processing (NLP) techniques such as TF-IDF vectorization and cosine similarity to match user queries with a dataset of frequently asked questions (FAQs).
-The chatbot will:
-•	Take user input <br>
-•	Process and analyze the text <br>
-•	Compare it with stored questions <br>
-•	Return the most relevant answer <br>
+The proposed solution is an AI-based College Helpdesk Chatbot developed using Python programming language. The system utilizes Natural Language Processing techniques such as TF-IDF (Term Frequency-Inverse Document Frequency) vectorization and cosine similarity to process and analyze textual data.
+
+The chatbot works by maintaining a dataset of frequently asked questions (FAQs) along with their corresponding answers. When a user inputs a query, the system converts the input into a numerical format and compares it with the stored questions using similarity measures.
+Based on the highest similarity score, the chatbot identifies the most relevant question and returns the corresponding answer to the user.
+
+The overall workflow of the system includes: <br>
+-Accepting user input through a command-line interface <br>
+-Preprocessing and analyzing the text <br>
+-Converting text into vector form using TF-IDF <br>
+-Calculating similarity with stored questions <br>
+-Displaying the most appropriate response <br>
 
 # Features
 •	24/7 availability
