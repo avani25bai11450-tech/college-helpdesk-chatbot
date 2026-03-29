@@ -1,9 +1,11 @@
 # Problem Statement: College Helpdesk Chatbot
 
 # Problem Description
-In colleges, students frequently have questions related to academics, attendance, fees, exams, and other administrative processes. These queries are often repetitive and require immediate responses. However, manually handling each query through staff or helpdesk systems can be time-consuming, inefficient, and sometimes unavailable outside working hours.
+In modern educational institutions, students frequently seek information related to various aspects of college life such as admissions, fee structure, attendance policies, examination schedules, hostel facilities, and general academic guidelines. These queries are often repetitive in nature and are asked by multiple students at different times.
 
-There is a need for an automated system that can provide instant, accurate, and consistent responses to common student queries without human intervention.
+Traditionally, such queries are handled manually by administrative staff or through helpdesk systems. However, this approach has several limitations. It consumes a significant amount of time and effort, leads to delays in responses, and is often unavailable outside official working hours. Additionally, human errors and inconsistencies in responses can affect the quality of information provided.
+
+With the increasing number of students and growing dependency on digital systems, there is a strong need for an automated, efficient, and reliable solution that can handle student queries instantly and accurately without requiring continuous human intervention.
 
 # Objective
 The objective of this project is to develop a chatbot that can:
