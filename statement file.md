@@ -8,18 +8,25 @@ Traditionally, such queries are handled manually by administrative staff or thro
 With the increasing number of students and growing dependency on digital systems, there is a strong need for an automated, efficient, and reliable solution that can handle student queries instantly and accurately without requiring continuous human intervention.
 
 # Objective
-The objective of this project is to develop a chatbot that can:
-•	Understand student queries
-•	Match them with predefined questions
-•	Provide appropriate answers instantly
+The primary objective of this project is to design and develop an intelligent chatbot system that can assist students by providing quick and accurate responses to their queries.
+
+The chatbot aims to:
+
+Understand user queries in natural language <br>
+Identify the intent behind the questions <br>
+Match queries with the most relevant predefined questions <br>
+Provide correct and meaningful answers instantly <br>
+Reduce dependency on manual helpdesk systems <br>
+
+This project also aims to demonstrate the practical implementation of Natural Language Processing (NLP) techniques in solving real-world problems.
 
 # Proposed Solution
 The proposed system is a College Helpdesk Chatbot built using Python. It uses Natural Language Processing (NLP) techniques such as TF-IDF vectorization and cosine similarity to match user queries with a dataset of frequently asked questions (FAQs).
 The chatbot will:
-•	Take user input
-•	Process and analyze the text
-•	Compare it with stored questions
-•	Return the most relevant answer
+•	Take user input <br>
+•	Process and analyze the text <br>
+•	Compare it with stored questions <br>
+•	Return the most relevant answer <br>
 
 # Features
 •	24/7 availability
