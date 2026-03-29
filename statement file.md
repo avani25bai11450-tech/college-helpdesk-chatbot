@@ -1,4 +1,4 @@
-### Problem Statement: College Helpdesk Chatbot
+# Problem Statement: College Helpdesk Chatbot
 
 # Problem Description
 In colleges, students frequently have questions related to academics, attendance, fees, exams, and other administrative processes. These queries are often repetitive and require immediate responses. However, manually handling each query through staff or helpdesk systems can be time-consuming, inefficient, and sometimes unavailable outside working hours.
