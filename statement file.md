@@ -45,10 +45,15 @@ The chatbot offers several useful features that enhance its usability and effect
 -Efficiency: Reduces workload on administrative staff and improves overall productivity <br>
 
 # Tools & Technologies
-•	Python
-•	Pandas (for data handling)
-•	Scikit-learn (TF-IDF Vectorizer, Cosine Similarity)
-•	CSV file (FAQ dataset)
+The development of this chatbot involves the use of the following tools and technologies: <br>
+
+-Python: Core programming language used for implementation <br>
+-Pandas: Used for reading, organizing, and managing the dataset <br>
+-Scikit-learn: Provides machine learning tools such as TF-IDF Vectorizer and Cosine Similarity <br>
+-Natural Language Processing (NLP): Used for understanding and processing text data <br>
+-CSV File: Stores the dataset of questions and answers in a structured format <br>
+
+These technologies collectively enable the chatbot to process user input efficiently and generate accurate responses.
 
 # Expected Outcome
 The system will reduce manual workload, improve response time, and enhance student experience by providing quick and reliable answers to frequently asked questions.
