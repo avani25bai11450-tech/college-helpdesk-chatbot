@@ -34,11 +34,15 @@ The overall workflow of the system includes: <br>
 -Displaying the most appropriate response <br>
 
 # Features
-•	24/7 availability
-•	Instant responses
-•	User-friendly interface (terminal-based)
-•	Handles multiple common queries
-•	Easy to update with new FAQs
+The chatbot offers several useful features that enhance its usability and effectiveness: <br>
+
+-24/7 Availability: The chatbot can provide responses at any time without restrictions of working hours <br>
+-Instant Responses: Users receive immediate answers without waiting for manual assistance <br>
+-User-Friendly Interface: Simple and easy-to-use terminal-based interaction <br>
+-Multi-domain Support: Handles queries related to admissions, fees, academics, hostel, and general information <br>
+-Consistency in Responses: Ensures uniform and accurate answers every time <br>
+-Scalability: New questions and answers can be easily added to the dataset <br>
+-Efficiency: Reduces workload on administrative staff and improves overall productivity <br>
 
 # Tools & Technologies
 •	Python
