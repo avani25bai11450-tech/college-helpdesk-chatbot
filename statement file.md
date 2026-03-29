@@ -1,11 +1,9 @@
 # Problem Statement: College Helpdesk Chatbot
 
 # Problem Description
-In today’s educational institutions, students frequently require information regarding admissions, fees, hostel facilities, academic schedules, and other general queries. These queries are often repetitive in nature and require manual handling by administrative staff, which can be time-consuming and inefficient.
+In colleges, students frequently have questions related to academics, attendance, fees, exams, and other administrative processes. These queries are often repetitive and require immediate responses. However, manually handling each query through staff or helpdesk systems can be time-consuming, inefficient, and sometimes unavailable outside working hours.
 
-To address this issue, the AI-Powered College Helpdesk Chatbot has been developed as a smart solution that automates responses to commonly asked questions. This project utilizes concepts of Artificial Intelligence and Natural Language Processing (NLP) to provide instant and accurate responses to users.
-
-The chatbot acts as a virtual assistant that can be accessed anytime, thereby improving efficiency and user experience.
+There is a need for an automated system that can provide instant, accurate, and consistent responses to common student queries without human intervention.
 
 # Objective
 The objective of this project is to develop a chatbot that can:
