@@ -99,26 +99,18 @@ What are hostel fees?,₹50000 per year
 
 ## ▶️ How to Run the Project
 
+
 ### Step 1: Clone the repository
-
-```
 git clone https://github.com/avani25bai11450-tech/college-helpdesk-chatbot.git
+
+### Step 2: Navigate to the project folder
 cd college-helpdesk-chatbot
-```
 
-### Step 2: Install dependencies
-
-```
+### Step 3: Install required libraries
 pip install -r requirements.txt
-```
 
-### Step 3: Run the chatbot
-
-```
+### Step 4: Run the chatbot
 python app.py
-```
-
----
 
 ## 💬 Sample Interaction
 
